@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void validated(String userName, String userPassword) {
         if ((userName.equals("Admin")) && (userPassword.equals("0000"))) {
-            Intent intent = new Intent(MainActivity.this, AdminView.class);
+            Intent intent = new Intent(MainActivity.this, Menu.class);
             startActivity(intent);
         } else if (counter == 0) {
             Login.setEnabled(false);
