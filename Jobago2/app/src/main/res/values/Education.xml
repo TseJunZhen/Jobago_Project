@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="education_array">
+        <item>Below high school graduate</item>
+        <item>High school graduate</item>
+        <item>College</item>
+        <item>Associate Degree</item>
+        <item>Bachelor's Degree</item>
+        <item>Master's Degree</item>
+        <item>Doctoral Degree</item>
+        <item>Professional Degree</item>
+    </string-array>
+</resources>
