@@ -10,4 +10,45 @@
         <item>Doctoral Degree</item>
         <item>Professional Degree</item>
     </string-array>
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="city_array">
+        <item>Changhua</item>
+        <item>Chiayi</item>
+        <item>Hsinchu</item>
+        <item>Hualien</item>
+        <item>Kaohsiung</item>
+        <item>Kinmen</item>
+        <item>Miaoli</item>
+        <item>Nantou</item>
+        <item>New Taipei</item>
+        <item>Penghu</item>
+        <item>Pingtung</item>
+        <item>Taoyuan</item>
+        <item>Taichung</item>
+        <item>Tainan</item>
+        <item>Taipei</item>
+        <item>Taitung</item>
+        <item>Yilan</item>
+        <item>Yunlin</item>
+    </string-array>
+    <string-array name="job_array">
+        <item>Accounting</item>
+        <item>Cashiers</item>
+        <item>Computer programmers</item>
+        <item>Driver</item>
+        <item>Firefighters</item>
+        <item>Lawyers</item>
+        <item>Maids </item>
+        <item>Office clerks</item>
+        <item>Receptionists </item>
+        <item>Restaurant Cooks</item>
+        <item>Retail salespersons</item>
+        <item>Secretaries</item>
+        <item>Security guards</item>
+        <item>Teachers</item>
+        <item>Waiters</item>
+    </string-array>
 </resources>
