@@ -29,7 +29,7 @@ public class Mail extends AppCompatActivity {
             }
         });
     }
-     public void videplay(View v){
+     public void videoplay(View v){
         String videopath = "android.resource://com.example.vip.jobago/"+ R.raw.videoplayback;
          Uri uri = Uri.parse(videopath);
          video.setVideoURI(uri);

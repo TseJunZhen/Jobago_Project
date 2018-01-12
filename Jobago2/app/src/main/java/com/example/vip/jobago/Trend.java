@@ -13,4 +13,5 @@ public class Trend extends AppCompatActivity {
 
         ImageView myImageView = (ImageView) findViewById(R.id.imageView4);
     }
+
 }

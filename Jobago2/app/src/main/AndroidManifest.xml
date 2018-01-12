@@ -20,7 +20,8 @@
         <activity android:name=".Menu" />
         <activity android:name=".Job" />
         <activity android:name=".Mail" />
-        <activity android:name=".Trend"></activity>
+        <activity android:name=".Trend" />
+        <activity android:name=".Register"></activity>
     </application>
 
 </manifest>

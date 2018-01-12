@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText Password;
     private TextView Info;
     private Button Login;
+    Button Register;
     private int counter = 5;
 
     @Override
@@ -26,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
         Password = (EditText) findViewById(R.id.etPassword);
         Info = (TextView) findViewById(R.id.tvInfo);
         Login = (Button) findViewById(R.id.btnLogin);
+        Register = (Button) findViewById((R.id.button8));
 
         Login.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -47,4 +49,6 @@ public class MainActivity extends AppCompatActivity {
             Info.setText("No of attempts remaining: " + String.valueOf(counter));
         }
     }
+
+
 }
