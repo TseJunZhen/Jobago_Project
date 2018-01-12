@@ -19,7 +19,8 @@
         <activity android:name=".AdminView" />
         <activity android:name=".Menu" />
         <activity android:name=".Job" />
-        <activity android:name=".Mail"></activity>
+        <activity android:name=".Mail" />
+        <activity android:name=".FindJob"></activity>
     </application>
 
 </manifest>
